@@ -1,6 +1,6 @@
-DAS240-BAT and DAS220-BAT Modbus TCP Library for Python
+# DAS240-BAT and DAS220-BAT Modbus TCP Library for Python
 
-Usage:
+## Usage:
 
     inport time
     import das240 as das
